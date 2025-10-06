@@ -4,7 +4,7 @@ Personagem do jogador:
 
 Fica na parte inferior da tela, podendo se mover para a esquerda e para a direita.
 
-O jogador controla com as setas do teclado (ou toque na tela, se for no celular).
+O jogador controla com as setas do teclado.
 
 Inimigos:
 
